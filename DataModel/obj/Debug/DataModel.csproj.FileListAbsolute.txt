@@ -1,0 +1,5 @@
+c:\users\rameya\documents\visual studio 2015\Projects\ConsoleApplication1\DataModel\bin\Debug\DataModel.dll
+c:\users\rameya\documents\visual studio 2015\Projects\ConsoleApplication1\DataModel\bin\Debug\DataModel.pdb
+c:\users\rameya\documents\visual studio 2015\Projects\ConsoleApplication1\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
+c:\users\rameya\documents\visual studio 2015\Projects\ConsoleApplication1\DataModel\obj\Debug\DataModel.dll
+c:\users\rameya\documents\visual studio 2015\Projects\ConsoleApplication1\DataModel\obj\Debug\DataModel.pdb
